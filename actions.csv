@@ -1,0 +1,36 @@
+﻿action_code;action_description;action_segment;action_type;action_payment;price
+11000;enrollment below 65 years old;Segment 1;Enrollment;quarterly per enrollment;16,54
+11100;enrollment 65-74 years old;Segment 1;Enrollment;quarterly per enrollment;19,41
+11101;enrollment 75-84 years old;Segment 1;Enrollment;quarterly per enrollment;29
+11102;enrollment above 84 years old;Segment 1;Enrollment;quarterly per enrollment;34
+12000;Regular consult 0 - 20 mins;Segment 1;Regular consult;per activity;10
+12001;Regular consult > 20 mins;Segment 1;Regular consult;per activity;20,29
+12002;Regular visit 0 - 20 mins;Segment 1;Regular consult;per activity;15,22
+12003;Regular visit > 20 mins;Segment 1;Regular consult;per activity;25,37
+12004;Regular teleconsult;Segment 1;Regular consult;per activity;10
+12006;Regular vaccination;Segment 1;Regular consult;per activity;12
+12007;Regular email-consult;Segment 1;Regular consult;per activity;9
+12010;Regular consult < 5 mins;Segment 1;Regular consult;per activity;5,07
+12011;Regular consult 5 - 20 mins;Segment 1;Regular consult;per activity;10,15
+11201;Module Mental Care;Segment 1;mental care;per activity;3,07
+12110;mental care consult 0 - 20 mins;Segment 1;mental care;per activity;10
+12111;mental care consult > 20 mins;Segment 1;mental care;per activity;20,29
+12112;mental care visit  0 - 20 mins;Segment 1;mental care;per activity;10
+12113;mental care visit >  20 mins;Segment 1;mental care;per activity;25,37
+12114;teleconsult mental care;Segment 1;mental care;per activity;13
+12115;email consult mental care;Segment 1;mental care;per activity;9
+12116;group consult mental care;Segment 1;mental care;per activity;7,5
+12117;Consult POH-GGZ korter dan 5 minuten;Segment 1;mental care;per activity;5,07
+12118;Consult POH-GGZ vanaf 5 minuten tot 20 minuten;Segment 1;mental care;per activity;10,15
+13012;Surgery;Segment 1;;per activity;91,68
+13034;Intensive care, day;Segment 1;Huisartsenzorg eerstelijns verblijf en Intensieve zorg;per activity;78,33
+13036;Intensive care, ANW;Segment 1;Huisartsenzorg eerstelijns verblijf en Intensieve zorg;per activity;22
+13004;Lung function measurement;Prestaties buiten segmenten;Modernisation & Innovation;;48,29
+13005;ECG-diagnostics;Prestaties buiten segmenten;Modernisation & Innovation;;47,84
+13006;Slit lamp diagnostics;Prestaties buiten segmenten;Modernisation & Innovation;;10
+13008;Bloodpressure measurement ;Prestaties buiten segmenten;Modernisation & Innovation;;31,88
+13009;Teledermatology;Prestaties buiten segmenten;Modernisation & Innovation;;12
+13023;Therapeutic injection (Cyriax);Segment 1;;per activity;30,97
+12850;Quit smoking treatment;Segment 1;Quit smoking;per activity;95,28
+31000;E-health;Segment 3 - Huisarts;health care innovation;one-time-payment;8
+31150;Innovation;Segment 3 - Multidisciplinaire eerstelijnszorg;Overige afspraken;one-time-payment;7,5
